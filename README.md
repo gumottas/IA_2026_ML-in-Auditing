@@ -1,3 +1,5 @@
+Este trabalho utilizou Claude (Anthropic, Opus 4.8) para apoio em criação e depuração dos códigos .py e elaborações visuais conforme ppt anexado na pasta docs. Todo o conteúdo técnico e associações lógicas foram desenvolvidas e validadas pelos autores com este apoio. 
+
 # Predição de Compatibilidade Auditor–Projeto com Modelos Ensemble
 
 Framework de aprendizado de máquina para prever a compatibilidade (*fit score*) entre auditores e projetos de auditoria, com suporte à decisão de alocação via matriz de scores e heurísticas de atribuição.
